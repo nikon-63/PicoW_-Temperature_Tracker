@@ -1,5 +1,9 @@
 # Raspberry Pi Pico W Temperature Monitoring with SQL Database Integration
 
+<p align="center">
+  <img src="PicoTempTracker.png" width=30% height=30%>
+</p>
+
 ## Overview
 This project utilizes a Raspberry Pi Pico W microcontroller board, a temperature sensor, and an OLED screen to monitor real-time temperature readings. The temperature data is then sent to a SQL database using PHP for efficient storage and retrieval.
 
